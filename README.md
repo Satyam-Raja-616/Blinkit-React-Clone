@@ -55,7 +55,7 @@ blinkit-like-react-clone/
 │   └── main.jsx
 ├── package.json
 └── vite.config.js
-'''
+```
 
 Website Preview :
 
